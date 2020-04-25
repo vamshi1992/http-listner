@@ -29,8 +29,9 @@
 				<cloudHubDeployment>
 				<username>vamshinew</username>
 				<environment>Sandbox</environment>
+				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<applicationName>httplistner-serviec</applicationName>
+				<applicationName>http-listner-service</applicationName>
 				<password>Vamshi!26</password>
 				<muleVersion>4.1.15</muleVersion>
 				</cloudHubDeployment>
