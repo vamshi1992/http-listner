@@ -27,13 +27,13 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-				<username>vamshinew</username>
+				<username>Vamshinew</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>http-listner-service</applicationName>
 				<password>Vamshi!26</password>
-				<muleVersion>4.1.15</muleVersion>
+				<muleVersion>4.1.5</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
